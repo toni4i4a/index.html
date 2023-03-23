@@ -1,0 +1,53 @@
+
+body {
+  background-color: #e6cadf; 
+}
+
+h1 {
+  color:  #6d6161; 
+  font-size: 40px;
+  text-align: center;
+ text-shadow: black;
+}
+
+li {
+font-size: 24px;
+}
+
+.text-1{
+  color: #1100ff;
+}
+
+.text-2 {
+  color: yellowgreen;
+}
+
+.text-3 {
+  color: green;
+}
+
+img {
+  width: 500px;
+  height: 200px;
+}
+
+p {
+  color: #000000; 
+  font-size: 22px; 
+}
+
+.text-4 {
+  Color: blue;
+  font-size: 44px;
+  }
+
+.а {
+    border: #e6cadf;
+    text-decoration: none;
+  }
+.shadow {
+  text-shadow: #FC0 1px 0 10px;
+}
+.underline {
+  text-decoration: none;
+}
